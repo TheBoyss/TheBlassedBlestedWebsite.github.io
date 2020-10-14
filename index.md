@@ -26,15 +26,15 @@
 </nav>
 
 <div id= "logo">
-    <img width=100% height="175" src="images/WidePutin.jpg" alt="Logo">
+    <img width=100% height="175" src="WidePutin.jpg" alt="Logo">
     <a href="index.html"></a>
 </div>
 <h1>WEBSITE UNDER CONSTRUCTION</h1>
 <div id= "pager">
     <div id="vorige">
-        <a href="collages.html">&lt</a></div>
+        <a href="collages.html"><</a></div>
     <div id="volgende">
-        <a href="quotes.html">&gt</a></div>
+        <a href="quotes.html">></a></div>
 </div>
 
 </body>
