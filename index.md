@@ -40,7 +40,7 @@
 </body>
 
 <footer>
-    <p>Copyright &copy; 2020 <i>Ontworpen door: Je boyy Dinand Huberts</i>
+    <p>Copyright &copy; 2020 <i>Ontworpen door: Je boyy Dinand Huberts.</i>
         Alle rechten voorbehouden, helaas.</p>
 </footer>
 
