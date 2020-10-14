@@ -6,11 +6,8 @@ html {
 }
 
 body {
-    width: 99%;
-    margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1%;
+    width: 100%;
+    margin: 0 auto 1%;
     border: 1px solid;
     overflow: inherit;
     background-color: #fff;
@@ -42,7 +39,7 @@ nav ul li {
 
 nav ul li {
     width: 25%;
-    background-color: darkcyan);
+    background-color: darkcyan;);
     float: left;
 }
 
@@ -106,7 +103,7 @@ nav ul li a:focus {
     top: 37%;
     left: 37%;
     display: block;
-    border: 0.5px solid #fff;
+    border: 1px solid #fff;
     border-radius: 50%;
 }
 #pager a {
@@ -140,7 +137,7 @@ nav ul li a:focus {
     right: 4%;
 }
 footer {
-    position: fixed;
+    position: static;
     bottom: 0;
     right: 0;
     left: 0;
@@ -157,7 +154,7 @@ footer img {
     width: 4%;
 }
 footer p {
-    margin: 0px;
+    margin: 0;
     color: firebrick;
 }
 @media only screen and (max-width: 600px) {
@@ -165,23 +162,9 @@ footer p {
     {
         background-color: #D4808B;
     }
+
 }
-form {
-    width: 100%;
-    margin: 0;
-    text-align: justify-all;
-}
-legend {
-    font-size: 1.5em;
-    font-weight: bold;
-}
-fieldset {
-    border: solid 2px #009D22;
-    width: 70%;
-    margin: auto;
-    border-radius: 2%;
-    background-image: linear-gradient(to top, hsl(0, 80%, 50%), #bada55);
-}
+
 input,
 select,
 textarea {
@@ -200,36 +183,7 @@ textarea:focus {
 select {
     width: 35%;
 }
-input[type=date]{
-    width: 25%;
-}
-input[type=checkbox],
-input[type=radio] {
-    width: 4%;
-}
-input[type=submit]{
-    background-color: #bada55;
-    width: 43%;
-    opacity: 0.4;
-}
-input[type=submit]:hover {
-    opacity: 1;
-    transition: opacity 0.5s linear;
-}
-#contact {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: justify;
-    line-height: 1.6em;
-}
-#contact span {
-    font-size: 1.3rem;
-    letter-spacing: 5px;
-    text-shadow: 2px 2px 4px #2eef1e;
-    text-transform: uppercase;
-}
-input [type=submit]:hover {
-    opacity: 1;
-    transition: opacity 0.5s linear;
+
+#collage_1 {
+
 }
