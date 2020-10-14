@@ -11,7 +11,7 @@
           content="text/html"
           charset=UTF-8>
     <link rel="stylesheet" href="styles.css">
-    <title>Home</title>
+   
 </head>
 <body>
 
