@@ -184,6 +184,7 @@ select {
     width: 35%;
 }
 
-#collage_1 {
-
+#tekst1 {
+    text-decoration-color: deeppink;
+    mso-text-animation: sparkle;
 }
